@@ -28,6 +28,9 @@ pip install -r requirements.txt
 pip install --upgrade setuptools
 ```
 
+### 3/26 추가
+pip install --upgrade setuptools
+
 ---
 
 ### env 파일 생성
