@@ -31,8 +31,10 @@ pip install --upgrade setuptools
 ---
 
 ### env 파일 생성
+
 https://djecrety.ir/ 에서 django SECRET_KEY 생성 후 <br>
 .env 파일 생성 후 SECRET_KEY 에 복사
+
 ---
 
 ### Django 개발 시작
